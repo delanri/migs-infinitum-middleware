@@ -1,0 +1,19 @@
+{
+  "name": "migs-infinitum-middleware",
+  "version": "1.0.0",
+  "description": "Migs Infinitium Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delanri/migs-infinitum-middleware.git"
+  },
+  "author": "Gamma Satria Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delanri/migs-infinitum-middleware/issues"
+  },
+  "homepage": "https://github.com/delanri/migs-infinitum-middleware#readme"
+}
